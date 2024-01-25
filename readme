@@ -2,4 +2,6 @@ create build environment: https://www.youtube.com/watch?v=Fg966ivZlrc
 
 can suppport: https://forum.armbian.com/topic/3588-can-bus-support-orange-pi-zero/
 
+configure can in armbian kernel: https://developer.ridgerun.com/wiki/index.php/How_to_configure_and_use_CAN_bus
+
 HDMI Display: https://www.youtube.com/watch?v=SbwedsfovcM
